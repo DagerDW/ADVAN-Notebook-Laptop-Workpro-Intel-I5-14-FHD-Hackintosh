@@ -2,7 +2,7 @@
 [![Release](https://img.shields.io/badge/download-release-blue.svg)]()
 
 EFI file untuk Advan Workpro (bukan Advan Workplus)
-![](images/Advan-Work-Pro-mac.png)
+![](Advan-Work-Pro-mac.png)
 
 # Catatan
 Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
