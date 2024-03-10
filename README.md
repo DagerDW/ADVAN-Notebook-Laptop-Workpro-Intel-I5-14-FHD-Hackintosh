@@ -8,7 +8,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
 
 # Bootloader
-Saya menggunakan [OpenCore 0.9.9 Mod]([https://github.com/acidanthera/OpenCorePkg](https://github.com/wjz304/OpenCore_NO_ACPI_Build))
+Saya menggunakan [OpenCore 0.9.9 Mod]([https://github.com/acidanthera/OpenCorePkg](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
 
 # Spesifikasi
 - <b>CPU</b>: [Ice Lake-U i5-1035G7](https://www.intel.co.id/content/www/id/id/products/sku/196592/intel-core-i51035g7-processor-6m-cache-up-to-3-70-ghz/specifications.html) Ice Lake-U
