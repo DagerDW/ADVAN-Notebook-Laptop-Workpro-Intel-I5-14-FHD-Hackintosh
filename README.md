@@ -16,7 +16,7 @@ Saya menggunakan [OpenCore 0.9.9 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 - <b>Penyimpanan</b>: SSD AirDisk 256GB
 - <b>RAM</b>: 8 GB DDR4 2133Mhz (bisa di upgrade, tersedia 1 slot kosong)
 - <b>Layar</b>: 14” 16:10 FHD 1920*1200 IPS
-- <b>Wifi</b>: Intel Wireless-AC 9560 (saya menggunakan itlwm)
+- <b>Wifi</b>: Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/))
 - <b>Trackpad</b>: ELAN (I2C)
 - <b>Ports</b>: 1x USB Type C 3.2 Gen1 (PD/DP/Charger/Data), 1x USB Type C PD only, 2x USB 3.2 Gen1 & 1x USB 2.0, 1x Standard HDMI 1.4, 3,5mm Jack Audio
 - <b>Audio</b>: Realtek ALC269 (0x0269) (layout-id 28)
@@ -26,7 +26,7 @@ Saya menggunakan [OpenCore 0.9.9 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 - Baterai
 - Semua port USB
 - Realtek ALC269  Audio (termasuk jack headphones)
-- Wi-Fi & Bluetooth
+- Wi-Fi Berfungsi dengan baik, tapi tidak dengan Bluetooth (Ventura dan Sonoma)
 - Internal webcam
 - ELAN Trackpad
 - Screen Brightness dengan Hotkeys
