@@ -2,13 +2,14 @@
 [![Release](https://img.shields.io/badge/download-release-blue.svg)]()
 
 EFI file untuk Advan Workpro (bukan Advan Workplus)
+#
 ![](Advan-Work-Pro-mac.png)
 
 # Catatan
 Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
 
 # Bootloader
-Saya menggunakan [OpenCore 0.9.9 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
+Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
 
 # Spesifikasi
 - <b>CPU</b>: [Ice Lake-U i5-1035G7](https://www.intel.co.id/content/www/id/id/products/sku/196592/intel-core-i51035g7-processor-6m-cache-up-to-3-70-ghz/specifications.html) Ice Lake-U
@@ -26,10 +27,10 @@ Saya menggunakan [OpenCore 0.9.9 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 - Baterai
 - Semua port USB
 - Realtek ALC269  Audio (termasuk jack headphones)
-- Wi-Fi Berfungsi dengan baik, tapi tidak dengan Bluetooth (Ventura dan Sonoma)
+- Wi-Fi dan Bluetooth Berfungsi dengan baik
 - Internal webcam
-- ELAN Trackpad
-- Screen Brightness dengan Hotkeys
+- ALPS Trackpad Berfungsi dengan baik
+- Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn
 - Kunci Fn
 - MacOS Ventura, Sonoma
 
