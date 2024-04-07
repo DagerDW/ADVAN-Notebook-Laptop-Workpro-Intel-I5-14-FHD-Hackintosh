@@ -6,7 +6,8 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 ![](Advan-Work-Pro-mac.png)
 
 # Catatan
-Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
+- Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
+- Generate ulang Serial Nuber, ROM, MLB dan System UUID, gunakan [aplikasi GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 # Bootloader
 Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
