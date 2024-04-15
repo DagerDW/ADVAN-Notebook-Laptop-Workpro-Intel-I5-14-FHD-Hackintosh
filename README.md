@@ -36,7 +36,7 @@ Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 - MacOS Ventura, Sonoma.
 
 # Sebelum Menggunakan EFI INI !!!!
-![](CleanShot 2024-04-15 at 22.44.55.png)
+![](change.png)
 - Sebelum anda menggunakan config.plist ada baiknya anda rubah bagian <b>XX-CHANGE_ME-XX</b>.
 - Gunakan aplikasi [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
 
