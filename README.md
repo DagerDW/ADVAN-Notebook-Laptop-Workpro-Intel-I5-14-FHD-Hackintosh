@@ -40,6 +40,7 @@ Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 ![](change.png)
 - Sebelum anda menggunakan config.plist ada baiknya anda rubah bagian <b>XX-CHANGE_ME-XX</b>.
 - Gunakan aplikasi [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
+- Keterangan detail ada di [README](https://github.com/DagerDW/ADVAN-Notebook-Laptop-Workpro-Intel-I5-14-FHD-Hackintosh/tree/main/EFI/OC/ACPI)
 
 ## Yang Tidak Berfungsi
 - Silahkan bergabung di telegram [Hackintosh Lovers](https://t.me/HackintoshLover) untuk berdiskusi.
@@ -50,4 +51,5 @@ Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 - [RehabMan](https://github.com/RehabMan) for some ACPI patches.
 - [Hackintosh Lovers](https://t.me/HackintoshLover) for the help.
 - [Olarila](https://www.olarila.com) for guides.
+- [MrMackintosh](https://mrmacintosh.com/macos-sonoma-full-installer-database-download-directly-from-apple/) for download installer link.
 - Dan semua pihak yang tidak bisa kami sebutkan satu per satu.
