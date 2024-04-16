@@ -6,7 +6,7 @@ mengakibatkan error.
 >
 > Silahkan compile dari file dsl atau gunakan file yang sudah ada.
 
-## CATATATN
+## CATATAN
 - Gunakan repo untuk Advan hackintosh ini dengan bijak 'jangan klaim sepihak'.
 - Cantumkan sumber kode jika anda akan menggunakan repo ini.
 
