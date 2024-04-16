@@ -3,11 +3,14 @@
 
 EFI file untuk Advan Workpro (bukan Advan Workplus)
 #
-![](Advan-Work-Pro-mac.png)
+![](Advan-Workpro-Ventura.png)
+![](Advan-Workpro-Sonoma.png)
 
 # Catatan
 - Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
 - Generate ulang Serial Nuber, ROM, MLB dan System UUID, gunakan [aplikasi GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- Revisi final EFI mendukung Ventura dan Sonoma (lihat gambar)
+- Final bug baterai indikator pada Sonoma 14.4.1
 
 # Bootloader
 Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
@@ -31,8 +34,7 @@ Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI
 - Wi-Fi dan Bluetooth Berfungsi dengan baik.
 - Internal webcam.
 - ALPS Trackpad Berfungsi dengan baik.
-- Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn.
-- Kunci Fn.
+- Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard.
 - MacOS Ventura, Sonoma.
 
 # Sebelum Menggunakan EFI INI !!!!
