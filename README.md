@@ -12,7 +12,11 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 - Final bug baterai indikator pada Sonoma 14.4.1
 
 # Bootloader
-Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
+- Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
+- Bisa dualboot MacOS dalam satu sistem (catatan iservice hanya digunakan sistem utama saja)
+#
+![](16095056.png)
+![](16095120.png)
 
 # Spesifikasi
 - <b>CPU</b>: [Ice Lake-U i5-1035G7](https://www.intel.co.id/content/www/id/id/products/sku/196592/intel-core-i51035g7-processor-6m-cache-up-to-3-70-ghz/specifications.html) Ice Lake-U
