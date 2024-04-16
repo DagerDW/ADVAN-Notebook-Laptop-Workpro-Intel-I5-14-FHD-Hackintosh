@@ -1,5 +1,5 @@
 # ACPI Masih Belajar
-Di karenakan keterbatasan saya dengan ACPI, maka untuk 'SSDT-Advan' dan 'SSDT-TPAD' saya pisahkan, karena jika saya satukan maka akan 
+Di karenakan keterbatasan saya dengan ACPI, maka untuk **`SSDT-Advan`**  dan **`SSDT-TPAD`** saya pisahkan, karena jika saya satukan maka akan 
 mengakibatkan error.
 
 > [!NOTE]
