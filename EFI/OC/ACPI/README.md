@@ -4,7 +4,7 @@ mengakibatkan error.
 
 > [!NOTE]
 >
-> Silahkan compile dari file dsl atau gunakan file yang sudah ada.
+> Silahkan compile dengan `MaciASL` dari file dsl atau gunakan file yang sudah ada.
 
 ## CATATAN
 - Gunakan repo untuk `Advan hackintosh` ini dengan bijak `jangan klaim sepihak`.
