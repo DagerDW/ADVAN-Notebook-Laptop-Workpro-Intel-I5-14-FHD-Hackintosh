@@ -8,7 +8,6 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 
 # Catatan
 - Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Ventura, bisa di upgrade sampai MacOS Sonoma
-- Generate ulang Serial Nuber, ROM, MLB dan System UUID, gunakan [aplikasi GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - Revisi final EFI mendukung Ventura dan Sonoma (lihat gambar)
 - Final bug baterai indikator pada Sonoma 14.4.1
 
