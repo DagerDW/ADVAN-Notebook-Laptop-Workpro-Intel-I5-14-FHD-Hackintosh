@@ -7,7 +7,7 @@ mengakibatkan error.
 > Silahkan compile dari file dsl atau gunakan file yang sudah ada.
 
 ## CATATAN
-- Gunakan repo untuk Advan hackintosh ini dengan bijak 'jangan klaim sepihak'.
+- Gunakan repo untuk `Advan hackintosh` ini dengan bijak `jangan klaim sepihak`.
 - Cantumkan sumber kode jika anda akan menggunakan repo ini.
 
 ## CREDITS dan SUMBER
