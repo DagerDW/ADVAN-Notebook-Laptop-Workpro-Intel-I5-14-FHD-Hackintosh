@@ -1,5 +1,4 @@
 # ADVAN-Notebook-Laptop-Workpro-Intel-I5-14-FHD-Hackintosh
-[![Release](https://img.shields.io/badge/download-release-blue.svg)]()
 
 EFI file untuk Advan Workpro (bukan Advan Workplus)
 ![](Advan-Workpro-Ventura.png)
@@ -17,7 +16,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 
 ## Catatan Untuk Seqouia
 - Download Open Core Legacy Patcher [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher).
-- Tutorial Wifi dan Bluetooth Intel [Klik Disini](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2499278671).
+- Tutorial Wifi dan Bluetooth Intel untuk MacOS Seqouia [Klik Disini](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2499278671).
 
 ![](16095056.png)
 ![](16095120.png)
@@ -38,7 +37,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 - Baterai.
 - Semua port USB.
 - Realtek ALC269  Audio (termasuk jack headphones).
-- Wi-Fi dan Bluetooth Berfungsi dengan baik (sampai MacOS Sonoma, untuk MacOS Seqouia ikuti petunjuk di atas.
+- Wi-Fi dan Bluetooth Berfungsi dengan baik (sampai MacOS Sonoma, untuk MacOS Seqouia ikuti petunjuk di atas).
 - Internal webcam.
 - ALPS Trackpad Berfungsi dengan baik.
 - Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard.
