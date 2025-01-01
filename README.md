@@ -2,7 +2,6 @@
 [![Release](https://img.shields.io/badge/download-release-blue.svg)]()
 
 EFI file untuk Advan Workpro (bukan Advan Workplus)
-#
 ![](Advan-Workpro-Ventura.png)
 ![](Advan-Workpro-Sonoma.png)
 ![](Advan_Workpro_Seqouia.png)
@@ -11,14 +10,14 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 - Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Sonoma, bisa di upgrade sampai MacOS Seqouia
 - Revisi final EFI mendukung Ventura, Sonoma dan Seqouia (lihat gambar)
 
-# Bootloader
-- Saya menggunakan [OpenCore 1.0.0 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
+## Bootloader
+- Saya menggunakan [OpenCore 1.0.3 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build)
 - Bisa dualboot MacOS dalam satu sistem (catatan iservice hanya digunakan sistem utama saja)
 
-# Catatan Untuk Seqouia
+## Catatan Untuk Seqouia
 - Download Open Core Legacy Patcher [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher)
+- Tutorial Wifi dan Bluetooth Intel [Klik Disini](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2499278671)
 
-#
 ![](16095056.png)
 ![](16095120.png)
 
@@ -28,7 +27,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 - <b>Penyimpanan</b>: SSD AirDisk 256GB
 - <b>RAM</b>: 8 GB DDR4 2133Mhz (bisa di upgrade, tersedia 1 slot kosong)
 - <b>Layar</b>: 14” 16:10 FHD 1920*1200 IPS
-- <b>Wifi</b>: Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS Seqouia
+- <b>Wifi</b>: Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS Seqouia)
 - <b>Trackpad</b>: ALPS (I2C) PoolingInterupt Mode
 - <b>Ports</b>: 1x USB Type C 3.2 Gen1 (PD/DP/Charger/Data), 1x USB Type C PD only, 2x USB 3.2 Gen1 & 1x USB 2.0, 1x Standard HDMI 1.4, 3,5mm Jack Audio
 - <b>Audio</b>: Realtek ALC269 (0x0269) (layout-id 28)
@@ -42,7 +41,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 - Internal webcam.
 - ALPS Trackpad Berfungsi dengan baik.
 - Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard.
-- MacOS Ventura, Sonoma.
+- MacOS Ventura, Sonoma dan Seqouia.
 
 # Sebelum Menggunakan EFI INI !!!!
 ![](change.png)
