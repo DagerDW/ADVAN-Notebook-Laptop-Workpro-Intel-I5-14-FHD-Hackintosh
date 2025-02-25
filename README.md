@@ -39,15 +39,17 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 | Audio | Realtek ALC269 (0x0269) (layout-id 28) |
 
 # Yang Berfungsi
-- CPU power management. 
-- Baterai.
-- Semua port USB.
-- Realtek ALC269  Audio (termasuk jack headphones).
-- Wi-Fi dan Bluetooth Berfungsi dengan baik (sampai MacOS Sonoma, untuk MacOS Seqouia ikuti petunjuk di atas).
-- Internal webcam.
-- ALPS Trackpad Berfungsi dengan baik.
-- Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard.
-- MacOS Ventura, Sonoma dan Seqouia.
+| Fitur | Status |
+| ----: | :----: |
+| CPU power management. | ✅ | 
+| Baterai. | ✅ |
+| Semua port USB. | ✅ |
+| Realtek ALC269  Audio (termasuk jack headphones). | ✅ |
+| Wi-Fi dan Bluetooth Berfungsi dengan baik (sampai MacOS Sonoma, untuk MacOS Seqouia ikuti petunjuk di atas). | ✅ |
+| Internal webcam. | ✅ |
+| ALPS Trackpad Berfungsi dengan baik. | ✅ |
+| Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard. | ✅ |
+| MacOS Ventura, Sonoma dan Seqouia. | ✅ |
 
 # Sebelum Menggunakan EFI INI !!!!
 ![](change.png)
