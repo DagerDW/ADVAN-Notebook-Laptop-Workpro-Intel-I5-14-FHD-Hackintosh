@@ -40,7 +40,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 
 # Yang Berfungsi
 | Fitur | Status |
-| ----: | :----: |
+| :---- | :----: |
 | CPU power management. | ✅ | 
 | Baterai. | ✅ |
 | Semua port USB. | ✅ |
