@@ -22,7 +22,10 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 ![](16095120.png)
 
 # Spesifikasi
-- <b>CPU</b>: [Ice Lake-U i5-1035G7](https://www.intel.co.id/content/www/id/id/products/sku/196592/intel-core-i51035g7-processor-6m-cache-up-to-3-70-ghz/specifications.html) Ice Lake-U
+| Spesifikasi		| Detail  |
+| ----------------: | :-----  |
+| Laptop | Advan Workpro Intel I5 14 FHD |
+| CPU | [Ice Lake-U i5-1035G7](https://www.intel.co.id/content/www/id/id/products/sku/196592/intel-core-i51035g7-processor-6m-cache-up-to-3-70-ghz/specifications.html) Ice Lake-U |
 - <b>GPU</b>: Intel® Iris® Plus Graphics (Intel Iris Plus Graphics G4 (Ice Lake))
 - <b>Penyimpanan</b>: SSD AirDisk 256GB
 - <b>RAM</b>: 8 GB DDR4 2133Mhz (bisa di upgrade, tersedia 1 slot kosong)
