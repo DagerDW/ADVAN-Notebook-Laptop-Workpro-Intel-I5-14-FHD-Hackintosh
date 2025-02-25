@@ -29,11 +29,11 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 | GPU | Intel® Iris® Plus Graphics (Intel Iris Plus Graphics G4 (Ice Lake)) |
 | Penyimpanan | SSD AirDisk 256GB |
 | RAM | 8 GB DDR4 2133Mhz (bisa di upgrade, tersedia 1 slot kosong) |
-- <b>Layar</b>: 14” 16:10 FHD 1920*1200 IPS
-- <b>Wifi</b>: Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS Seqouia)
-- <b>Trackpad</b>: ALPS (I2C) PoolingInterupt Mode
-- <b>Ports</b>: 1x USB Type C 3.2 Gen1 (PD/DP/Charger/Data), 1x USB Type C PD only, 2x USB 3.2 Gen1 & 1x USB 2.0, 1x Standard HDMI 1.4, 3,5mm Jack Audio
-- <b>Audio</b>: Realtek ALC269 (0x0269) (layout-id 28)
+| Layar | 14” 16:10 FHD 1920*1200 IPS |
+| Wifi | Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS Seqouia) |
+| Trackpad | ALPS (I2C) PoolingInterupt Mode |
+| Ports | 1x USB Type C 3.2 Gen1 (PD/DP/Charger/Data), 1x USB Type C PD only, 2x USB 3.2 Gen1 & 1x USB 2.0, 1x Standard HDMI 1.4, 3,5mm Jack Audio |
+| Audio | Realtek ALC269 (0x0269) (layout-id 28) |
 
 # Yang Berfungsi
 - CPU power management. 
