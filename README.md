@@ -7,7 +7,9 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 
 # Catatan
 > Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Sonoma, bisa di upgrade sampai MacOS Seqouia.
+
 > Revisi final EFI mendukung Ventura, Sonoma dan Seqouia (lihat gambar).
+
 > Download EFI [Disini](https://github.com/DagerDW/ADVAN-Notebook-Laptop-Workpro-Intel-I5-14-FHD-Hackintosh/tree/main/EFI).
 
 ## Bootloader
@@ -16,6 +18,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 
 ## Catatan Untuk Seqouia
 > Download Open Core Legacy Patcher [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher).
+
 > Tutorial Wifi dan Bluetooth Intel untuk MacOS Seqouia [Klik Disini](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2499278671).
 
 ![](16095056.png)
