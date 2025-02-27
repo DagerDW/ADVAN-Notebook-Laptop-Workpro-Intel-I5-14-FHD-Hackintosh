@@ -3,12 +3,12 @@
 EFI file untuk Advan Workpro (bukan Advan Workplus)
 ![](Advan-Workpro-Ventura.png)
 ![](Advan-Workpro-Sonoma.png)
-![](Advan_Workpro_Seqouia.png)
+![](Advan_Workpro_seqouia.png)
 
 # Catatan
-> Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Sonoma, bisa di upgrade sampai MacOS Seqouia.
+> Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Sonoma, bisa di upgrade sampai MacOS sequoia.
 
-> Revisi final EFI mendukung Ventura, Sonoma dan Seqouia (lihat gambar).
+> Revisi final EFI mendukung Ventura, Sonoma dan sequoia (lihat gambar).
 
 > Download EFI [Disini](https://github.com/DagerDW/ADVAN-Notebook-Laptop-Workpro-Intel-I5-14-FHD-Hackintosh/tree/main/EFI).
 
@@ -16,10 +16,10 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 - Saya menggunakan [OpenCore 1.0.3 Mod](https://github.com/wjz304/OpenCore_NO_ACPI_Build).
 - Bisa dualboot MacOS dalam satu sistem (catatan iservice hanya digunakan sistem utama saja).
 
-## Catatan Untuk Seqouia
+## Catatan Untuk sequoia
 > Download Open Core Legacy Patcher [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher).
 
-> Tutorial Wifi dan Bluetooth Intel untuk MacOS Seqouia [Klik Disini](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2499278671).
+> Tutorial Wifi dan Bluetooth Intel untuk MacOS sequoia [Klik Disini](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2499278671).
 
 ![](16095056.png)
 ![](16095120.png)
@@ -33,7 +33,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 | Penyimpanan | SSD AirDisk 256GB |
 | RAM | 8 GB DDR4 2133Mhz (bisa di upgrade, tersedia 1 slot kosong) |
 | Layar | 14” 16:10 FHD 1920*1200 IPS |
-| Wifi | Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS Seqouia) |
+| Wifi | Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS sequoia) |
 | Trackpad | ALPS (I2C) PoolingInterupt Mode |
 | Ports | 1x USB Type C 3.2 Gen1 (PD/DP/Charger/Data), 1x USB Type C PD only, 2x USB 3.2 Gen1 & 1x USB 2.0, 1x Standard HDMI 1.4, 3,5mm Jack Audio |
 | Audio | Realtek ALC269 (0x0269) (layout-id 28) |
@@ -45,11 +45,11 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 | Baterai. | ✅ |
 | Semua port USB. | ✅ |
 | Realtek ALC269  Audio (termasuk jack headphones). | ✅ |
-| Wi-Fi dan Bluetooth Berfungsi dengan baik (sampai MacOS Sonoma, untuk MacOS Seqouia ikuti petunjuk di atas). | ✅ |
+| Wi-Fi dan Bluetooth Berfungsi dengan baik (sampai MacOS Sonoma, untuk MacOS sequoia ikuti petunjuk di atas). | ✅ |
 | Internal webcam. | ✅ |
 | ALPS Trackpad Berfungsi dengan baik. | ✅ |
 | Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard. | ✅ |
-| MacOS Ventura, Sonoma dan Seqouia. | ✅ |
+| MacOS Ventura, Sonoma dan sequoia. | ✅ |
 
 # Sebelum Menggunakan EFI INI !!!!
 ![](change.png)
