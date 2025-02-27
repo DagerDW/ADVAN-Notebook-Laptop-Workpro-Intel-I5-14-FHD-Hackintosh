@@ -3,7 +3,7 @@
 EFI file untuk Advan Workpro (bukan Advan Workplus)
 ![](Advan-Workpro-Ventura.png)
 ![](Advan-Workpro-Sonoma.png)
-![](Advan_Workpro_seqouia.png)
+![](Advan_Workpro_Seqouia.png)
 
 # Catatan
 > Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Sonoma, bisa di upgrade sampai MacOS sequoia.
