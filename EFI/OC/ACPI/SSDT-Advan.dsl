@@ -296,7 +296,7 @@ DefinitionBlock ("", "SSDT", 2, "Advan", "AdvanHCK", 0x00001000)
                     "layout-id", 
                     Buffer (0x04)
                     {
-                         0x1C, 0x00, 0x00, 0x00                           // ....
+                         0x1D, 0x00, 0x00, 0x00                           // ....
                     }
                 })
             }
