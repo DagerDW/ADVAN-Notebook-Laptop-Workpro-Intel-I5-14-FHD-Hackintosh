@@ -36,7 +36,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 | Wifi | Intel Wireless-AC 9560 (saya menggunakan [airportitlwm](https://openintelwireless.github.io/itlwm/)) (catatan: perlu patch OCLP untuk MacOS sequoia) |
 | Trackpad | ALPS (I2C) PoolingInterupt Mode |
 | Ports | 1x USB Type C 3.2 Gen1 (PD/DP/Charger/Data), 1x USB Type C PD only, 2x USB 3.2 Gen1 & 1x USB 2.0, 1x Standard HDMI 1.4, 3,5mm Jack Audio |
-| Audio | Realtek ALC269 (0x0269) (layout-id 29), saya mengupdate layout id karena mic tidak terdeteksi pada layoit id 28 |
+| Audio | Realtek ALC269 (0x0269) (layout-id 29), saya mengupdate layout id karena mic tidak terdeteksi pada layout id 28 |
 
 # Yang Berfungsi
 | Fitur | Status |
