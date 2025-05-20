@@ -1,14 +1,13 @@
 # ADVAN-Notebook-Laptop-Workpro-Intel-I5-14-FHD-Hackintosh
 
 EFI file untuk Advan Workpro (bukan Advan Workplus)
-![](Advan-Workpro-Ventura.png)
 ![](Advan-Workpro-Sonoma.png)
 ![](Advan_Workpro_Seqouia.png)
 
 # Catatan
 > Penggunaan EFI Laptop Advan Workpro di luar tanggung jawab saya, jika ada kerusakan pemasangan silahkan tanggung jawab sendiri, saya menggunakan MacOS Sonoma, bisa di upgrade sampai MacOS sequoia.
 
-> Revisi final EFI mendukung Ventura, Sonoma dan sequoia (lihat gambar).
+> Revisi final EFI mendukung Sonoma dan Sequoia (lihat gambar).
 
 > Download EFI [Disini](https://github.com/DagerDW/ADVAN-Notebook-Laptop-Workpro-Intel-I5-14-FHD-Hackintosh/tree/main/EFI).
 
@@ -49,7 +48,7 @@ EFI file untuk Advan Workpro (bukan Advan Workplus)
 | Internal webcam. | ✅ |
 | ALPS Trackpad Berfungsi dengan baik. | ✅ |
 | Screen Brightness dengan Hotkeys (Tombol F2 dan F3) tanpa Fn Mapping sendiri dari system settings > keyboard. | ✅ |
-| MacOS Ventura, Sonoma dan sequoia. | ✅ |
+| MacOS Sonoma dan Sequoia. | ✅ |
 
 # Sebelum Menggunakan EFI INI !!!!
 ![](change.png)
